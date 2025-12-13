@@ -1,3 +1,4 @@
-{"timestamp": "07:20:03.375", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "07:20:04.362", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "07:20:05.353", "elapsed_s": 2, "frame": 180, "screen_size": [1280, 720]}
+{"timestamp": "07:22:14.216", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "07:22:15.197", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "07:22:16.177", "elapsed_s": 2, "frame": 180, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "07:22:17.153", "elapsed_s": 3, "frame": 240, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
